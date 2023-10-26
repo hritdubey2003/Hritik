@@ -322,6 +322,10 @@ section{
    font-weight: normal;   
 }
 
+.about .skills .progress .bar:nth-child(0) h3{
+   width: 85%;
+}
+
 .about .skills .progress .bar:nth-child(1) h3{
    width: 85%;
 }
