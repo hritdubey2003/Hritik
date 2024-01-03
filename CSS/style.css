@@ -341,7 +341,7 @@ section{
 }
 
 .about .skills .progress .bar:nth-child(5) h3{
-   width: 85%;
+   width: 95%;
 }
 
 .about .skills .progress .bar:nth-child(6) h3{
@@ -349,11 +349,11 @@ section{
 }
 
 .about .skills .progress .bar:nth-child(7) h3{
-   width: 60%;
+   width: 67%;
 }
 
 .about .skills .progress .bar:nth-child(8) h3{
-   width: 80%;
+   width: 93%;
 }
 
 .about .skills .progress .bar:nth-child(9) h3{
@@ -368,15 +368,15 @@ section{
    width: 85%;
 }
 .about .skills .progress .bar:nth-child(12) h3{
-   width: 90%;
+   width: 95%;
 }
 
-.about .skills .progress .bar:nth-child(12) h3{
-   width: 85%;
+.about .skills .progress .bar:nth-child(13) h3{
+   width: 80%;
 }
 
 .about .skills .progress .bar:nth-child(14) h3{
-   width: 85%;
+   width: 60%;
 }
 
 .about .edu-exp .row{
