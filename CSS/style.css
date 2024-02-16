@@ -333,7 +333,7 @@ section{
 }
 
 .about .skills .progress .bar:nth-child(3) h3{
-   width: 65%;
+   width: 80%;
 }
 
 .about .skills .progress .bar:nth-child(4) h3{
@@ -341,7 +341,7 @@ section{
 }
 
 .about .skills .progress .bar:nth-child(5) h3{
-   width: 95%;
+   width: 96%;
 }
 
 .about .skills .progress .bar:nth-child(6) h3{
