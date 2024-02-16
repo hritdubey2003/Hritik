@@ -8,3 +8,6 @@ In future, I am willing to design a much interactive and impressive UI for this.
 Also, I want to add a dashboard page where any person visiting my website can login and have a live chat session with me. For that, I am working over at socket.io.
 
 Use git clone for using the Project
+
+For getting the full fledged working of the Website I have hosted it over the Infinity Free Link - {http://php2003.42web.io/?i=1}
+Note: On GitHub Pages Hosting, I have just hosted the FrontEnd-Part
