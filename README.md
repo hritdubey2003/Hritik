@@ -1,5 +1,6 @@
 
 Portfolio Website
+
 This Website briefly describes about me and the services offered by me. Using this site, any visitor can contact me and get to know about me. To get in touch, visitors at this website can easily message me using that website. 
 Framing is done using the HTML, styling is done using the CSS and an additional linking of Font-Awesome and Bootstrap. JavaScript is used for achieving the toggling feature in Website’s menu section.
 PHP is used for the connection of the Database from the client side and for getting the data from the database. 
